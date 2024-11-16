@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=vlmcsd
-PKG_VERSION:=svn1112
+PKG_VERSION:=2024.11.12
 PKG_RELEASE:=2
 
 PKG_MAINTAINER:=Tony Feng <fengtons@gmail.com>
